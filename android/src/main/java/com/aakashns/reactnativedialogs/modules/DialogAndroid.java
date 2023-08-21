@@ -16,6 +16,7 @@ import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.StackingBehavior;
 import com.afollestad.materialdialogs.simplelist.MaterialSimpleListAdapter;
 import com.afollestad.materialdialogs.simplelist.MaterialSimpleListItem;
+import com.facebook.react.bridge.NativeModule;
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
